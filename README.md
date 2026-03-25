@@ -24,6 +24,14 @@ This project analyzes customer purchasing behavior using RFM (Recency, Frequency
 - At Risk customers represent a large portion but contribute less to revenue
 - Loyal customers show strong engagement and upselling potential
 
+## Dashboard Preview
+
+### Page 1
+![Dashboard Page 1](dashboard_page1.png)
+
+### Page 2
+![Dashboard Page 2](dashboard_page2.png)
+
 ## Business Recommendations
 - Retain Champions with loyalty programs
 - Re-engage At Risk customers with targeted campaigns
@@ -61,6 +69,14 @@ Ce projet analyse le comportement d'achat des clients à l'aide de la segmentati
 - Les Champions génèrent le plus de revenus
 - Les clients à risque représentent une grande part mais faible valeur
 - Les clients fidèles ont un fort potentiel
+
+## Aperçu du Tableau de Bord
+
+### Page 1
+![Tableau de bord - Page 1](dashboard_page1.png)
+
+### Page 2
+![Tableau de bord - Page 2](dashboard_page2.png)
 
 ## Recommandations
 - Fidéliser les Champions
