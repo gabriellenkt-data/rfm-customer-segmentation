@@ -1,4 +1,5 @@
-# RFM Customer Segmentation Dashboard - English
+# RFM Customer Segmentation Dashboard
+*(La version française suit)*
 
 ## Project Overview
 This project analyzes customer purchasing behavior using RFM (Recency, Frequency, Monetary) segmentation to identify high-value customers and support business decision-making.
@@ -41,7 +42,7 @@ This project analyzes customer purchasing behavior using RFM (Recency, Frequency
 - Dashboard creation
 - Business insights and storytelling
 
-# Tableau de segmentation client RFM - Français
+# Tableau de segmentation client RFM
 
 ## Aperçu du projet
 Ce projet analyse le comportement d'achat des clients à l'aide de la segmentation RFM (Récence, Fréquence, Montant) afin d’identifier les clients à forte valeur et d’aider à la prise de décision.
