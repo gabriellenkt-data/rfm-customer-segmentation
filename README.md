@@ -42,6 +42,8 @@ This project analyzes customer purchasing behavior using RFM (Recency, Frequency
 - Dashboard creation
 - Business insights and storytelling
 
+---
+
 # Tableau de segmentation client RFM
 
 ## Aperçu du projet
@@ -71,7 +73,7 @@ Ce projet analyse le comportement d'achat des clients à l'aide de la segmentati
 ## Aperçu du Tableau de Bord
 
 ### Page 1
-![Tableau de bord - Page 1](dashboard_page1.png)
+![Tableau de bord_Page 1](dashboard_page1.png)
 
 ## Recommandations
 - Fidéliser les Champions
