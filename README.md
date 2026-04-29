@@ -4,6 +4,12 @@
 ## Project Overview
 This project analyzes customer purchasing behavior using RFM (Recency, Frequency, Monetary) segmentation to identify high-value customers and support business decision-making.
 
+The analysis is based on the **Online Retail dataset** from the UCI Machine Learning Repository, which contains transactional data from a UK-based e-commerce company.
+
+The dataset covers the period from **2009 to 2011** and includes over **500,000 transaction records**, where each row represents a product purchased within an invoice.
+
+Data from two time periods (2009–2010 and 2010–2011) were combined into a single dataset to enable a more comprehensive analysis of customer behavior over time.
+
 ## Objectives
 - Segment customers based on their purchasing behavior
 - Identify high-value and at-risk customers
@@ -48,6 +54,12 @@ This project analyzes customer purchasing behavior using RFM (Recency, Frequency
 
 ## Aperçu du projet
 Ce projet analyse le comportement d'achat des clients à l'aide de la segmentation RFM (Récence, Fréquence, Montant) afin d’identifier les clients à forte valeur et d’aider à la prise de décision.
+
+L’analyse repose sur le jeu de données **Online Retail**, issu du UCI Machine Learning Repository, contenant des données transactionnelles d’une entreprise e-commerce basée au Royaume-Uni.
+
+Le dataset couvre la période **2009 à 2011** et comprend plus de **500 000 transactions**, chaque ligne représentant un produit acheté dans une facture.
+
+Les données provenant de deux périodes (2009–2010 et 2010–2011) ont été combinées afin de permettre une analyse plus complète du comportement client dans le temps.
 
 ## Objectifs
 - Segmenter les clients selon leur comportement
